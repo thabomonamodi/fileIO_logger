@@ -1,3 +1,6 @@
 2020-03-20 09:45:12,304 | Visitor: File created successfully
 2020-03-20 09:47:37,608 | Visitor: File created successfully
 2020-03-20 09:59:26,910 | Visitor: File created successfully
+[INFO ] 2020-03-20 11:19:12,780 | Visitor: File created successfully
+[ERROR] 2020-03-20 11:25:58,696 | Visitor: Did not find any file
+[ERROR] 2020-03-20 11:27:04,540 | Visitor: Did not find any file

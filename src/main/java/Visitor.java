@@ -51,18 +51,20 @@ public class Visitor
     public static void load(String fname)throws IOException
     {
         //Scanner scan = new Scanner(new FileReader(fname));
-        String line = null;
+        String line="";
         FileReader reads = null;
         fname = "visitor_"+fname.toLowerCase().replace(" ","_"+".txt");
         File reader = new File(fname);
         if (reader.exists())
         {
             reads = new FileReader(reader);
-            while (line!=null)
-            {
+            while (line.equals(reads.read()))
+           {
                 log.info(line);
-            }
+           }
+            log.info("File found");
         }
+        log.error("Did not find any file");
     }
     public static void main(String[]args)throws IOException
     {
@@ -70,18 +72,19 @@ public class Visitor
         LocalTime time = LocalTime.now();
         LocalDate date = LocalDate.now();
 
-        /*System.out.println("Please enter your full name");
+       /* System.out.println("Please enter your full name");
         fullname = scan.nextLine();
         System.out.println("Please enter your age");
         age = scan.nextInt();
         System.out.println("Please write any comment");
         comments = scan.next();
         System.out.println("Please enter the name of the person who assisted you with the visit");
-        person_assisted = scan.nextLine();
+        person_assisted = scan.next();
         save();*/
         System.out.println("would yo like to retrieve a file? y/n");
         String ans = scan.nextLine();
-        while(ans!="n"||ans!="N")
+
+        while(ans.equalsIgnoreCase("N"));
         {
             System.out.println("Please provide a name to load a file.");
             String name = scan.nextLine();
