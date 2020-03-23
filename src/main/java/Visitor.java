@@ -63,6 +63,7 @@ public class Visitor
                 log.info(line);
            }
             log.info("File found");
+            reads.close();
         }
         log.error("Did not find any file");
     }

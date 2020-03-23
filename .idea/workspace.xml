@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/syslog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/syslog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Visitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +35,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZKuoldSZ4snFFUXKATHGkNifEv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -96,23 +100,26 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="194" key="GridCell.Tab.0.bottom" timestamp="1584695459280">
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1584956672246">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="194" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584695459280" />
-    <state width="637" height="194" key="GridCell.Tab.0.center" timestamp="1584695459280">
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584956672246" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1584956672246">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="194" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584695459280" />
-    <state width="637" height="194" key="GridCell.Tab.0.left" timestamp="1584695459280">
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584956672246" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1584956672246">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="194" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584695459280" />
-    <state width="637" height="194" key="GridCell.Tab.0.right" timestamp="1584695459280">
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584956672246" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1584956672246">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="637" height="194" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584695459280" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584956672246" />
     <state x="0" y="30" key="SettingsEditor" timestamp="1584692460627">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
